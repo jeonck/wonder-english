@@ -1,5 +1,5 @@
 ---
-title: "소설 Wonder로 배우는 원어민 영어 표현과 뉘앙스 정리 — Part 1, Ch.1 \"Ordinary\""
+title: "Part 1, Ch.1 \"Ordinary\""
 date: 2026-06-03T11:27:00+09:00
 draft: false
 tags: ["영어공부", "원더", "Wonder", "영어뉘앙스", "원어민표현", "Ordinary"]
