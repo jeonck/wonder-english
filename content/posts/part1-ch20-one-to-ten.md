@@ -1,5 +1,5 @@
 ---
-title: "Part 1, Ch.20 \"One to Ten\" (최종 마스터판)"
+title: "Part 1, Ch.20 \"One to Ten\" "
 date: 2026-06-09T12:30:00+09:00
 draft: false
 tags: ["영어공부", "원더", "Wonder", "영어뉘앙스", "원어민표현", "One to Ten"]
