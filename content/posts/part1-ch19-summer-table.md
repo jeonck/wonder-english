@@ -1,5 +1,5 @@
 ---
-title: "Part 1, Ch.19 \"The Summer Table\" (최종 마스터판)"
+title: "Part 1, Ch.19 \"The Summer Table\" "
 date: 2026-06-08T09:30:00+09:00
 draft: false
 tags: ["영어공부", "원더", "Wonder", "영어뉘앙스", "원어민표현", "The Summer Table"]
