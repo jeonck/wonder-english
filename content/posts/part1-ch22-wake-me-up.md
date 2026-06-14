@@ -1,5 +1,5 @@
 ---
-title: "Part 1, Ch.22 \"Jack Will\""
+title: "Part 1, Ch.22 \"Wake me up When September Ends\""
 date: 2026-06-13T22:30:00+09:00
 draft: false
 tags: ["영어공부", "원더", "Wonder", "영어뉘앙스", "원어민표현", "Jack Will"]

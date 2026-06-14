@@ -1,5 +1,5 @@
 ---
-title: "Part 1, Ch.24 \"Apples\" 최종 정리"
+title: "Part 1, Ch.25 \"Apples\" "
 date: 2026-06-13T23:30:00+09:00
 tags: ["영어공부", "원더", "Wonder", "영어뉘앙스", "Apples"]
 categories: ["English Study"]
