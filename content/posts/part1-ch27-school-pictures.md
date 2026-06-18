@@ -1,5 +1,5 @@
 ---
-title: "Part 1, Ch.26 \"School Pictures\" 최종 정리"
+title: "Part 1, Ch.27 \"School Pictures\" "
 date: 2026-06-17T23:20:00+09:00
 tags: ["영어공부", "원더", "Wonder", "영어뉘앙스", "School Pictures"]
 categories: ["English Study"]
